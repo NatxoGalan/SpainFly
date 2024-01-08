@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: "RussoOne";
+    src: url("RussoOne-Regular.ttf");
+}
+body{
+    background-color: #6fdbdbad;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: 200px;
+}
+h2{
+    text-align: center;
+    font-family: "RussoOne";
+}
+
+img.Viaje{
+    width: 225px   ;
+    margin: 5px;
+    float: left;
+}
+div.borde{
+    border: solid;
+    height: 240px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+}
+p.borde{
+    margin:25px;
+    text-align: center;
+}
+b{
+    color: whitesmoke;
+    background-color: black;
+}
+#comentarios {
+    margin-top: 20px;
+    border-top: 2px solid #ccc;
+    padding-top: 10px;
+  }
+
+div.comentario {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  address {
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}
